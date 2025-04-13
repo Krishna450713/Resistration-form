@@ -1,1 +1,1 @@
-# Resistration-form
+# Registration-form
